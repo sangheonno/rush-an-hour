@@ -4,4 +4,4 @@
 
 ## LICENSE
 
-* [WTFPL](http://www.wtfpl.net/about/)의 규정을 따르기는 하지만, 원 출처와 제작자 이름만 [@sangheonno](https://github.com/sangheonno) 밝혀주시면 사용가능 합니다.
+* [WTFPL](http://www.wtfpl.net/about/)의 규정을 따르기는 하지만, 원 출처와 제작자 이름만 [@sangheonno](https://github.com/sangheonno) 밝혀주시면 **"상업적 용도를 제외한 모든 부분에서"** 사용가능 합니다.
